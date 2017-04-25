@@ -1,1 +1,1 @@
-# Local-Cooling-in-MJ
+# Local-Cooling-in-Molecular Junctions
